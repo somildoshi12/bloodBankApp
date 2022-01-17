@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Blood Bank App</string>
+
+    <string name="message2">
+        <br>Benefits of donating blood\n\n</br>
+        <br></br>
+        <br>1) Reduce stress\n</br>
+        <br>2) Improve your emotional well-being\n</br>
+        <br>3) Benefit your physical health\n</br>
+        <br>4) Help get rid of negative feelings\n</br>
+        <br>5) Provide a sense of belonging and reduce isolation\n\n</br>
+    </string>
+
+    <string name="message3">
+
+        The purpose of blood donation camp is to select a suitable donor whose blood is safe to the recipients and who himself shall not in any way be harmed by blood donation. Outdoor voluntary blood donation camps in India are organized in three phases.
+    </string>
+
+
+
+
+
+
+    <string name="blood_bank">Blood Bank</string>
+
+
+</resources>
