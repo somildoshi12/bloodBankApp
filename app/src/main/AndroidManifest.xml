@@ -16,12 +16,6 @@
             android:name="com.example.bloodbankapp.MainActivity5"
             android:exported="false" />
         <activity
-            android:name="com.example.bloodbankapp.MainActivity4"
-            android:exported="false" />
-        <activity
-            android:name="com.example.bloodbankapp.MainActivity3"
-            android:exported="false" />
-        <activity
             android:name="com.example.bloodbankapp.MainActivity2"
             android:exported="false" />
         <activity
